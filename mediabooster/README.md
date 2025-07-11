@@ -65,9 +65,9 @@
 ## 📸 Screenshots *(optional section if available)*
 
 <p align="center">
-<img src="https://github.com/shahmoksh22/Media-booster/tree/main/mediabooster/ScreenShot/1.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Media-booster/tree/main/mediabooster/ScreenShot/2.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Media-booster/tree/main/mediabooster/ScreenShot/3.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Media-booster/blob/main/mediabooster/ScreenShot/1.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Media-booster/blob/main/mediabooster/ScreenShot/2.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Media-booster/blob/main/mediabooster/ScreenShot/3.png" alt="App Screenshot" width="200" height="400"/>
 </p>
 
 ---
